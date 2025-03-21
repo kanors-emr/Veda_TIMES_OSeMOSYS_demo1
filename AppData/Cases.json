@@ -1,1 +1,214 @@
-[{"CaseId":1,"CreatedOn":"2023-11-10 06:17","Description":"","EditedOn":"2023-11-10 06:18","EndingYear":"2020","FixResultFileName":"False","FixResultInfo":{"WorkTimesFolderPath":null,"GdxElasticDermands":{"GdxSelectedFile":{"FileName":"","FilePath":"","IsSelected":false},"IsApplied":false},"GdxIre":{"GdxSelectedFile":{"FileName":"","FilePath":"","IsSelected":false},"IsApplied":false,"RadioSelection":1},"GdxUseSolution":{"FixYearsUpto":"","GdxSelectedFile":{"FileName":"","FilePath":"","IsSelected":false},"IsApplied":false,"RadioSelection":1},"IsApplyFixResult":false},"GAMSSourceFolder":"GAMS_SrcTIMES.v4.7.4","Name":"demo1","ParametricGroup":null,"ParametricGroupId":null,"PeriodsDefinition":"pdef-5","PropertiesGroup":"DefaultProperties","PropertiesGroupId":3,"RegionGroup":"AllRegion","RegionGroupId":2,"ScenarioGroup":"AllOsemosysScenario","ScenarioGroupId":4,"Solver":"cplex","SolverOptionFile":"BA121-7","UserName":"rohit"}]
+[
+  {
+    "CaseId": 9,
+    "CreatedOn": "2023-11-10 06:17",
+    "Description": "",
+    "EditedOn": "2023-11-10 06:18",
+    "EndingYear": "2020",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.8.6",
+    "Name": "demo1",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-5",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 40,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 38,
+    "ScenarioGroup": "AllOsemosysScenario",
+    "ScenarioGroupId": 37,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "rohit"
+  },
+  {
+    "CaseId": 10,
+    "CreatedOn": "2025-03-14 15:19",
+    "Description": "",
+    "EditedOn": "2025-03-18 08:10",
+    "EndingYear": "2030",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.8.6",
+    "Name": "ref_ose",
+    "ParametricGroup": "all_CO2Prices",
+    "ParametricGroupId": 35,
+    "PeriodsDefinition": "msy26_2030",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 40,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 38,
+    "ScenarioGroup": "AllOsemosysScenario",
+    "ScenarioGroupId": 36,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "akanu"
+  },
+  {
+    "CaseId": 11,
+    "CreatedOn": "2025-03-18 03:33",
+    "Description": "",
+    "EditedOn": "2025-03-18 07:57",
+    "EndingYear": "2030",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.8.6",
+    "Name": "ref_times",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "msy26_2030",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 40,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 38,
+    "ScenarioGroup": "AllOsemosysScenario",
+    "ScenarioGroupId": 36,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "akanu"
+  },
+  {
+    "CaseId": 12,
+    "CreatedOn": "2025-03-18 08:19",
+    "Description": "",
+    "EditedOn": "2025-03-18 08:20",
+    "EndingYear": "2030",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.8.6",
+    "Name": "tax_ose",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "msy26_2030",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 40,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 38,
+    "ScenarioGroup": "tax",
+    "ScenarioGroupId": 41,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "akanu"
+  }
+]

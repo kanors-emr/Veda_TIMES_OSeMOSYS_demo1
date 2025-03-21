@@ -1,1 +1,15 @@
-{"IsNRGChecked":true,"IsMATChecked":true,"IsDEMChecked":true,"IsUserConstraintChecked":true,"ThreadCount":-1,"None":false,"Times":true,"Osemosys":true}
+{
+  "ApplicationVersion": "4.0.9.6",
+  "UserName": "akanu",
+  "Date": "2025-03-13 21:20",
+  "FormSettings": {
+    "IsNRGChecked": true,
+    "IsMATChecked": true,
+    "IsDEMChecked": true,
+    "IsUserConstraintChecked": true,
+    "ThreadCount": -1,
+    "None": false,
+    "Times": true,
+    "Osemosys": true
+  }
+}

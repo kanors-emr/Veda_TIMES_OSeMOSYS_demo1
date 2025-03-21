@@ -1,1 +1,92 @@
-[{"SavedGroupId":1,"GroupName":"AllScenario","GroupType":"Scenario","Settings":"[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"B\", \"FileStatus\": \"Consistent\", \"RecordCount\": 175}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 30}, {\"Name\": \"Interpolation_Cases\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 17}, {\"Name\": \"Ose_param\", \"Checked\": false, \"RowOrder\": 4, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 0}]","CreatedOn":"2023-11-10 06:15","DisplayCreatedOn":"2023-11-10 06:15","UserName":"rohit"},{"SavedGroupId":2,"GroupName":"AllRegion","GroupType":"Region","Settings":"[\"REG1\"]","CreatedOn":"2023-11-10 06:15","DisplayCreatedOn":"2023-11-10 06:15","UserName":"rohit"},{"SavedGroupId":3,"GroupName":"DefaultProperties","GroupType":"Properties","Settings":"{\"OptCa\": null, \"OptCr\": null, \"Damage\": 2, \"LimCol\": 0, \"LimRow\": 0, \"Oblong\": true, \"ResLim\": 50000, \"Retire\": false, \"IterLim\": 999999, \"SolPrint\": false, \"Uncertainty\": 0, \"RunInStepsOf\": 0, \"ClimateModule\": false, \"LinearVarCost\": true, \"LevelizedCosts\": 3, \"GamsOptionBratio\": \"\", \"DiscreteInvestment\": false, \"DoExtendedQaChecks\": false, \"GeneralEquilibrium\": 3, \"MidYearDiscounting\": true, \"ObjFunctionVariant\": 0, \"ShiftDiscountingBy\": 0, \"Co2CalibrationAtBoh\": false, \"UseSlackVariablesInUc\": false, \"DiscreteUnitCommitment\": false, \"EndoGenousTechLearning\": false, \"WriteBPriceforElastDem\": false, \"SaveSolutionInformation\": false, \"TsForFlowReportingTypes\": 0, \"UseLastRunAsStartingPoint\": false, \"ActivateSensitivityAnalysis\": false}","CreatedOn":"2023-11-10 06:15","DisplayCreatedOn":"2023-11-10 06:15","UserName":"rohit"},{"SavedGroupId":4,"GroupName":"AllOsemosysScenario","GroupType":"Scenario","Settings":"[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 0, \"ShortName\": \"B\"}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"SS\"}, {\"Name\": \"Interpolation_Cases\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"RS\"}, {\"Name\": \"Ose_param\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"RS\"}]","CreatedOn":"2023-11-10 06:17","DisplayCreatedOn":"2023-11-10 06:17","UserName":"rohit"}]
+[
+  {
+    "SavedGroupId": 35,
+    "GroupName": "all_CO2Prices",
+    "GroupType": "Parametric",
+    "Settings": "[\"CO2Prices_0001\", \"CO2Prices_0002\", \"CO2Prices_0003\", \"CO2Prices_0004\", \"CO2Prices_0005\"]",
+    "CreatedOn": "2025-03-18 08:07",
+    "DisplayCreatedOn": "2025-03-18 08:07",
+    "UserName": "akanu"
+  },
+  {
+    "SavedGroupId": 36,
+    "GroupName": "AllOsemosysScenario",
+    "GroupType": "Scenario",
+    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 0, \"ShortName\": \"B\"}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"SS\"}, {\"Name\": \"Interpolation_Cases\", \"Checked\": false, \"RowOrder\": 2, \"ShortName\": \"RS\"}, {\"Name\": \"Ose_param\", \"Checked\": false, \"RowOrder\": 3, \"ShortName\": \"RS\"}]",
+    "CreatedOn": "2025-03-18 03:31",
+    "DisplayCreatedOn": "2025-03-18 03:31",
+    "UserName": "akanu"
+  },
+  {
+    "SavedGroupId": 37,
+    "GroupName": "AllOsemosysScenario",
+    "GroupType": "Scenario",
+    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 0, \"ShortName\": \"B\"}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"SS\"}, {\"Name\": \"Interpolation_Cases\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"RS\"}, {\"Name\": \"Ose_param\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"RS\"}]",
+    "CreatedOn": "2023-11-10 06:17",
+    "DisplayCreatedOn": "2023-11-10 06:17",
+    "UserName": "rohit"
+  },
+  {
+    "SavedGroupId": 33,
+    "GroupName": "AllRegion",
+    "GroupType": "Region",
+    "Settings": "[\"REG1\", \"REG2\"]",
+    "CreatedOn": "2025-03-18 08:19",
+    "DisplayCreatedOn": "2025-03-18 08:19",
+    "UserName": "akanu"
+  },
+  {
+    "SavedGroupId": 38,
+    "GroupName": "AllRegion",
+    "GroupType": "Region",
+    "Settings": "[\"REG1\"]",
+    "CreatedOn": "2023-11-10 06:15",
+    "DisplayCreatedOn": "2023-11-10 06:15",
+    "UserName": "rohit"
+  },
+  {
+    "SavedGroupId": 32,
+    "GroupName": "AllScenario",
+    "GroupType": "Scenario",
+    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"B\", \"FileStatus\": \"Consistent\", \"RecordCount\": 350}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 58}, {\"Name\": \"CO2Prices_0005\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 12}, {\"Name\": \"Interpolation_Cases\", \"Checked\": false, \"RowOrder\": 4, \"ShortName\": \"RS\", \"FileStatus\": \"NotImported\", \"RecordCount\": 0}, {\"Name\": \"Ose_param\", \"Checked\": false, \"RowOrder\": 5, \"ShortName\": \"RS\", \"FileStatus\": \"NotImported\", \"RecordCount\": 0}]",
+    "CreatedOn": "2025-03-18 08:19",
+    "DisplayCreatedOn": "2025-03-18 08:19",
+    "UserName": "akanu"
+  },
+  {
+    "SavedGroupId": 39,
+    "GroupName": "AllScenario",
+    "GroupType": "Scenario",
+    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"B\", \"FileStatus\": \"Consistent\", \"RecordCount\": 175}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 30}, {\"Name\": \"Interpolation_Cases\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 17}, {\"Name\": \"Ose_param\", \"Checked\": false, \"RowOrder\": 4, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 0}]",
+    "CreatedOn": "2023-11-10 06:15",
+    "DisplayCreatedOn": "2023-11-10 06:15",
+    "UserName": "rohit"
+  },
+  {
+    "SavedGroupId": 34,
+    "GroupName": "DefaultProperties",
+    "GroupType": "Properties",
+    "Settings": "{\"OptCa\": null, \"OptCr\": null, \"Damage\": 2, \"LimCol\": 0, \"LimRow\": 0, \"Oblong\": true, \"ResLim\": 50000, \"Retire\": false, \"IterLim\": 999999, \"SolPrint\": false, \"Uncertainty\": 0, \"RunInStepsOf\": 0, \"ClimateModule\": false, \"LinearVarCost\": true, \"LevelizedCosts\": 3, \"GamsOptionBratio\": \"\", \"DiscreteInvestment\": false, \"DoExtendedQaChecks\": false, \"GeneralEquilibrium\": 3, \"MidYearDiscounting\": true, \"ObjFunctionVariant\": 0, \"ShiftDiscountingBy\": 0, \"Co2CalibrationAtBoh\": false, \"UseSlackVariablesInUc\": false, \"DiscreteUnitCommitment\": false, \"EndoGenousTechLearning\": false, \"WriteBPriceforElastDem\": false, \"SaveSolutionInformation\": false, \"TsForFlowReportingTypes\": 0, \"UseLastRunAsStartingPoint\": false, \"ActivateSensitivityAnalysis\": false}",
+    "CreatedOn": "2025-03-18 08:19",
+    "DisplayCreatedOn": "2025-03-18 08:19",
+    "UserName": "akanu"
+  },
+  {
+    "SavedGroupId": 40,
+    "GroupName": "DefaultProperties",
+    "GroupType": "Properties",
+    "Settings": "{\"OptCa\": null, \"OptCr\": null, \"Damage\": 2, \"LimCol\": 0, \"LimRow\": 0, \"Oblong\": true, \"ResLim\": 50000, \"Retire\": false, \"IterLim\": 999999, \"SolPrint\": false, \"Uncertainty\": 0, \"RunInStepsOf\": 0, \"ClimateModule\": false, \"LinearVarCost\": true, \"LevelizedCosts\": 3, \"GamsOptionBratio\": \"\", \"DiscreteInvestment\": false, \"DoExtendedQaChecks\": false, \"GeneralEquilibrium\": 3, \"MidYearDiscounting\": true, \"ObjFunctionVariant\": 0, \"ShiftDiscountingBy\": 0, \"Co2CalibrationAtBoh\": false, \"UseSlackVariablesInUc\": false, \"DiscreteUnitCommitment\": false, \"EndoGenousTechLearning\": false, \"WriteBPriceforElastDem\": false, \"SaveSolutionInformation\": false, \"TsForFlowReportingTypes\": 0, \"UseLastRunAsStartingPoint\": false, \"ActivateSensitivityAnalysis\": false}",
+    "CreatedOn": "2023-11-10 06:15",
+    "DisplayCreatedOn": "2023-11-10 06:15",
+    "UserName": "rohit"
+  },
+  {
+    "SavedGroupId": 41,
+    "GroupName": "tax",
+    "GroupType": "Scenario",
+    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 0, \"ShortName\": \"B\"}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"SS\"}, {\"Name\": \"Interpolation_Cases\", \"Checked\": false, \"RowOrder\": 2, \"ShortName\": \"RS\"}, {\"Name\": \"CO2Prices_0005\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"RS\"}, {\"Name\": \"Ose_param\", \"Checked\": false, \"RowOrder\": 4, \"ShortName\": \"RS\"}]",
+    "CreatedOn": "2025-03-18 08:19",
+    "DisplayCreatedOn": "2025-03-18 08:19",
+    "UserName": "akanu"
+  }
+]

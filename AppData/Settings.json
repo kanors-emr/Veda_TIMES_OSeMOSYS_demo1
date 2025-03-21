@@ -1,1 +1,35 @@
-{"InitialSetupComplete":true,"VRQSettings":{"ExpectedMemory":"4","MaxHitWaitTime":"2","Model":"DemoS_003","Priority":"10"},"GAMSFoldersListAndDefaults":{"PathGAMSRoot":"C:\\VEDA\\Veda","WorkTimes":"Gams_WrkDemoS","SourceTimes":"GAMS_SrcTIMES.v.4.4.2","ListOfSourceTimesFolder":["GAMS_SrcTIMES.v.4.4.2"],"ListOfWorkTimesFolder":["Gams_WrkDemoS","Gams_WrkETI","GAMS_WrkTIMES","GAMS_WrkTurkey"]},"RmFormSettings":{"IsDDWritingOnly":false,"IsRestartOption":false,"IsVRQ":false,"MaxRun":"2","Solver":"CPLEX","SolverOption":"CPLEX","StudyName":"Base"}}
+{
+  "InitialSetupComplete": true,
+  "VRQSettings": {
+    "ExpectedMemory": "4",
+    "MaxHitWaitTime": "2",
+    "Model": "DemoS_003",
+    "Priority": "10"
+  },
+  "GAMSFoldersListAndDefaults": {
+    "PathGAMSRoot": "C:\\Veda\\Veda",
+    "WorkTimes": "GAMS_WrkTIMES",
+    "SourceTimes": "GAMS_SrcTIMES.v4.8.6",
+    "ListOfSourceTimesFolder": [
+      "GAMS_SrcTIMES.v4.8.6"
+    ],
+    "ListOfWorkTimesFolder": [
+      "GAMS_WrkTIMES"
+    ]
+  },
+  "RmFormSettings": {
+    "IsDDWritingOnly": false,
+    "IsRestartOption": false,
+    "MaxRun": "2",
+    "Solver": "CPLEX",
+    "SolverOption": "CPLEX",
+    "StudyName": "Base",
+    "IsGamsEngine": false,
+    "RemoveVdFiles": false,
+    "DoNotCreateCaseZipFile": true,
+    "GenerateJacobian": false
+  },
+  "RmCaseZipFilesStorage": {
+    "CaseZipFilesRootPath": "C:\\Veda\\Veda\\Veda_case_zip_files"
+  }
+}
